@@ -4,7 +4,7 @@ import itertools
 import csv
 
 # Parameters
-N = 3  # Adjust based on your actual problem
+N = 8  # Adjust based on your actual problem
 gamma = 0.99  # Discount factor
 alpha = 0.1  # Learning rate
 epsilon = 0.1  # Exploration rate
